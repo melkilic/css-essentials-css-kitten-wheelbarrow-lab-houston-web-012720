@@ -17,7 +17,7 @@
 }
 
 /* Select the image inside the element with an id of basket (using its descendent relationship) */
-#basket{img}
+#div basket{img}
 /*__write_selector_here__*/p#id {
   position: absolute;
   z-index: 5;
