@@ -8,7 +8,7 @@
 }
 
 /* Select the image with id of kitty-2 */
-  <img id="kitty-2" src="images/kitty-2.png" alt="Kitty 2">
+  .kitty-2{img}
 /*__write_selector_here__*/ p#id{
   position: absolute;
   z-index: 2;
