@@ -17,7 +17,7 @@
 }
 
 /* Select the image inside the element with an id of basket (using its descendent relationship) */
-# kitty-3{img}
+ #kitty-3{img}
 /*__write_selector_here__*/div#id {
   position: absolute;
   z-index: 5;
